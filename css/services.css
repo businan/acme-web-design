@@ -396,7 +396,6 @@ body .main .form_item {
 }
 body .main form {
   background: #35424a;
-  min-width: 400px;
 }
 body .main form button {
   background: #e8491d;
